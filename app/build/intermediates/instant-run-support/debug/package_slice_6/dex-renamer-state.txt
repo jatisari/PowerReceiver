@@ -1,0 +1,4 @@
+#Thu Dec 14 12:25:17 WIB 2017
+base.0=/Users/agus/private/training/referensi/android-fundamentals-master/PowerReceiver/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
